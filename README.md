@@ -25,4 +25,12 @@ It uses:
 ```bash
 python calculator.py
 
+```
+
+
+## 📸 Output
+
+![Calculator Screenshot](calculator1.png)
+![Calculator Screenshot](calculator2.png)
+
 
